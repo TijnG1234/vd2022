@@ -16,13 +16,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Sanne 't Hooft (vervangen door jouw naam)
+  Tijn Gerhards
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+  blauw
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
+  responsive design
  
 </details>
 
@@ -30,13 +30,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
 
-## Je website
+## Mijn Website: Integrity design (internet diensten)
 
 <details open>
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  https://www.integritydesign.nl/wat-is-responsive-webdesign/
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
@@ -56,33 +56,30 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 1e werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen:
+  Lijst met je bevindingen die in de test naar voren kwamen: 
+  - De website maakt bij het onderdeel contact gebruik van links voor hun tekst, de screenreader stem lijkt deze tekst vervolgens niet te kunnen voorlezen.
+  - De screenreader kan afbeeldingen niet lezen.
+  - De screenreader pakt geanimeerde inlopende tekst niet.
+  - Sommige koppen zijn niet aanwezig
+  - Hij leest ook dingen voor zoals "nieuwe regel"
+  
+  
 
   #### Screenreader
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+ Het doorlopen van de website met screenreader ging niet helemaal lekker. Hij las veel dingen voor op de site die overbodig zouden zijn voor de persoon die gebruikt maakt van de screenreader zoals het vertellen van welk tekstelement je bent. Verder kan de screenreader ook de tekst over afbeeldingen niet lezen en mijn site maakt hier veel gebruik van en dus mis je zo veel belangrijk informatie. 
 
 
   #### Muis en Toetsenbord 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+ Hier heb ik verder niet heelveel op aan te merken. De site is met de muis en het toetsenbord makkelijk te besturen. Alleen wordt de cursor op de site wel anders (vormgeving van de wrebsite zelf)
 
 
   #### Motoriek (shocks, elastiekjes)
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+ Door de elastiekjes kon ik vrijwel niet door de website navigeren. Dingen zoals buttons clicken of naar beneden scrollen waren vrijwel niet te doen.
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  Ookal was het beeld met de brillen op wat moeilijker te zien, kon ik mij nogsteeds vrij gemakkelijk door de site navigeren en kon ik de meeste dingen van mijn website nogwel gemakkelijk zien. Dit komt waarschijnlijk door het duidelijke en goeie gebruik van verschillende kleuren op mijn site die zorgen voor een goed contrast.
 
 </details>
-
 
 
 ## Breakdownschets (week 1)
@@ -90,19 +87,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <details>
   <summary>uitwerken na afloop 2e werkgroep</summary>
 
-  ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
-
-  ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
-
-  ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+  <img src="readme-images/breakdownschets.jpg" width="375px" alt="breakdown en dynamisch deel">
 
 </details>
-
-
-
 
 
 ## Voortgang 1 (week 2)
@@ -112,33 +99,49 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+￼￼
+----------------
 
+* Dit ging goed - Css in combinatie met html coderen ging goed en website zag er presenteerbaar uit hierdoor.
+
+
+* Dit ging niet goed - Enters in mijn website tekst krijgen ( maakte gebruik van <br> element en dat is praktisch niet overzichtelijk en handig voor het functioneren van je website). Verder had ik nog niet een goeie verdeling staan van de verschillende sections waaruit mijn website bestaat. Ook had ik gebruik gemaakt van classes en dat was niet bedoeling van de opdracht.
+
+
+￼--------------
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | student 1 :
 
+  Website willen laten zien en feedback krijgen op e.v.t de manier van coderen die is toegepast.
+
+  | student 2 :
+
+    Website willen laten zien en feedback krijgen op e.v.t de manier van coderen die is toegepast.
+
+  | student 3 :
+
+    Website willen laten zien en feedback krijgen op e.v.t de manier van coderen die is toegepast.
+
+  | student 4 :
+
+    Website willen laten zien en feedback krijgen op e.v.t de manier van coderen die is toegepast.
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+- Selection minderen met selection 1,2,3,4,5 etc 
+- In css minder font families
+- Br weghalen door er nieuwe hoofdstukken van te maken 
+- Classes bij sections weghalen 
+- Px in css omzetten naar em
 
 </details>
 
 
-
-
-
-## Voortgang 2 (week 3)
+## Voortgang 2 (week 3) (Absent vanwege prive omstandigheden)
 
 <details>
   <summary>uitwerken voor 2e voortgang</summary>
@@ -276,5 +279,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   1. bron 1
   2. bron 2
   3. ...
+
+</details>
 
 </details>
