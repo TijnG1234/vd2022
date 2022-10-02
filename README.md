@@ -182,28 +182,25 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
 
+  Verbeterd
+- Tekst over plaatjes kan nu ook worden opgelezen door screenreader
+- De screenreader leest nu alle kopjes ook gewoon voor en dat doet hij op de orginele site niet
+
+  Verder: 
+- Buttons / links deden het nog niet goed genoeg
+- Kleurgebruik en verschil in contrast van mijn site komt goed overeen met de orginele website
+
   #### Screenreader
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+Ik heb de screenreader getest op tekst over afbeeldingen op mijn site en verder ook gewoon alle andere content tekst die op mijn site stond, en dat werkte bij mij allemaal prima.
 
   #### Muis en Toetsenbord 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+De buttons op de site zijn wel klikbaar maar reageren nog niet echt ergens op. Verder werkt mijn hamburger menu ook nog niet en kan je dus ook nog niet navigeren naar de andere pagina.
 
   #### Motoriek (shocks, elastiekjes)
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+Ik heb dit met elastiekjes gedaan en het blijft lastig om vervolgens daarmee met de muis door de site te navigeren. Verder zijn de buttons op de site wel groot genoeg om er op te kunnen klikken en interactie mee te hebben.
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+Hierbij is niet zoveel veranderd als mijn vorige test, de site blijft gewoon overzichtelijk genoeg om door te navigeren ookal maak je het moeilijker om te zien. Dit komt gewoon doot het sterke verschil in contrast op de website.
 
 </details>
 
