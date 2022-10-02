@@ -113,21 +113,21 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1 :
+  | student 1 (Daphne kool):
 
-  Website willen laten zien en feedback krijgen op e.v.t de manier van coderen die is toegepast.
+- laten zien wat ik tot zo ver had om daar feedback op te krijgen
 
-  | student 2 :
+  | student 2 (Jade van der peet):
 
-    Website willen laten zien en feedback krijgen op e.v.t de manier van coderen die is toegepast.
+- Laten zien wat zij tot zo ver had om daar feedback op te krijgen
 
-  | student 3 :
+| student 3 (Tijn Gerhards):
 
-    Website willen laten zien en feedback krijgen op e.v.t de manier van coderen die is toegepast.
+- Laten zien wat zij tot zo ver had om daar feedback op te krijgen
 
-  | student 4 :
+  | student 4 (Betoel fadallah):
 
-    Website willen laten zien en feedback krijgen op e.v.t de manier van coderen die is toegepast.
+- Laten zien wat zij tot zo ver had om daar feedback op te krijgen
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
@@ -217,26 +217,40 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 3e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Heb mij voor deze week vooral gefocust op het design van de footer en navigatie van mijn pagina.
+
+<img src="readme-images/footer.jpg" width="375px" alt="breakdown en dynamisch deel">
 
 
-  ### Agenda voor meeting
-  samen met je groepje opstellen
+### Agenda voor meeting
+samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+| student 1 (Betoel):  
+- responsivness
+- carousel oneindig maken
+
+| student 2 (Leanne):
+- hamburger menu naast logo zetten
+- css tweede pagina 
+- plaatjes responsive maken       
+  
+| student 3 (Tijn):
+- Hoe te beginnen met hamburger menu te laten functioneren
+- Vragen over section gebruik
+- Plaatjes responsive maken
+  
+| student 4 (Daphne):
+- Source van meerdere (dezelfde) plaatjes veranderen met javascript
+- Zowel plaatjes als tekst kleiner laten worden (responsive)
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
+  - Section gebruik in verhouding met letter fonts beter structuren
+  - Footer ziet er goed uit, maar content van de rest van de site moet nog wel woorden opgevuld en verbeterd worden
   - nog een punt
-  - ...
+  - Over het algemeen goed op weg maar hebt nog wel een lange weg te gaan
 
 </details>
 
